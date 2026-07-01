@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #50b988;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.capa-projeto {
+    padding: 16px 23px;
+    background: #080a10;
+    border-radius: 3vh;
+    margin: 4vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    color: #d7be91;
+    font-size: 4vh;
+}
+
+.navegacao-principal {
+    color: #d7be91;
+    text-decoration: none;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo-main {
+   padding-bottom: 2vh;
+}
+
+.cartoes {
+    width: 250px;
+    height: 200px;
+}
+
+.cartao-imagem {
+    width: 100%;
+}
+
+footer {
+        padding: 16px 23px;
+    background: #080a10;
+    color: #d7be91;
+}
