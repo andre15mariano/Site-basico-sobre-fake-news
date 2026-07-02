@@ -35,6 +35,9 @@ main {
     display: flex;
     align-items: center;
     flex-direction: column;
+    background: #d7be91;
+    border-radius: 4vh;
+    margin: 4vh;
 }
 
 .titulo-main {
@@ -48,6 +51,7 @@ main {
 
 .cartao-imagem {
     width: 100%;
+    padding-bottom: 2px;
 }
 
 footer {
