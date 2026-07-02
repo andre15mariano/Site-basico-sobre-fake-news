@@ -4,7 +4,7 @@
 }
 
 body {
-    background: #50b988;
+    background: #358667;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -21,12 +21,12 @@ body {
 }
 
 h1 {
-    color: #d7be91;
+    color: #c4a368;
     font-size: 4vh;
 }
 
 .navegacao-principal {
-    color: #d7be91;
+    color: #c4a368;
     text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ main {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background: #d7be91;
+    background: #c4a368;
     border-radius: 4vh;
     margin: 4vh;
 }
