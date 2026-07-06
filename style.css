@@ -12,7 +12,7 @@ body {
 
 .capa-projeto {
     padding: 16px 23px;
-    background: #303841; 
+    background: #080a10; 
     border-radius: 3vh;
     margin: 4vh;
     display: flex;
@@ -35,7 +35,7 @@ main {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background: #c4a368;
+    background: #080a10;
     border-radius: 4vh;
     margin: 4vh;
 }
