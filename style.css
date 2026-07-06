@@ -1,15 +1,15 @@
-* {
+ * {
     margin: 0; 
     padding: 0;
 }
-
+ 
 body {
     background: #358667;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
-
+ 
 .capa-projeto {
     padding: 16px 23px;
     background: #080a10; 
@@ -19,17 +19,17 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-
+ 
 h1 {
     color: #c4a368;
     font-size: 4vh;
 } 
-
+ 
 .navegacao-principal {
     color: #c4a368;
     text-decoration: none;
 }
-
+ 
 main {
     flex: 1;
     display: flex;
@@ -39,7 +39,7 @@ main {
     border-radius: 4vh;
     margin: 4vh;
 }
- 
+  
 .titulo-main {
    padding-bottom: 2vh;
 }
@@ -48,14 +48,15 @@ main {
     width: 250px;
     height: 200px;
 }
-
+ 
 .cartao-imagem {
     width: 100%;
     padding-bottom: 2px;
 }
-
+ 
 footer {
         padding: 16px 23px;
     background: #080a10;
     color: #d7be91;  
-} 
+}  
+ 
