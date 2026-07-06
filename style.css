@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 0; 
     padding: 0;
 }
 
@@ -12,7 +12,7 @@ body {
 
 .capa-projeto {
     padding: 16px 23px;
-    background: #080a10;
+    background: #080a10; 
     border-radius: 3vh;
     margin: 4vh;
     display: flex;
@@ -39,7 +39,7 @@ main {
     border-radius: 4vh;
     margin: 4vh;
 }
-
+ 
 .titulo-main {
    padding-bottom: 2vh;
 }
@@ -57,5 +57,5 @@ main {
 footer {
         padding: 16px 23px;
     background: #080a10;
-    color: #d7be91;
-}
+    color: #d7be91;  
+} 
