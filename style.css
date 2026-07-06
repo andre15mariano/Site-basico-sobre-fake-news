@@ -1,61 +1,35 @@
 * {
-    margin: 0; 
-    padding: 0;
+margin: 0;
+padding: 0;
 }
 
 body {
+    background: #50b988;
     background: #358667;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-.capa-projeto {
-    padding: 16px 23px;
-    background: #080a10; 
-    border-radius: 3vh;
-    margin: 4vh;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+@@ -21,12 +21,12 @@
 }
 
 h1 {
+    color: #d7be91;
     color: #c4a368;
-    font-size: 4vh;
-} 
+font-size: 4vh;
+}
 
 .navegacao-principal {
+    color: #d7be91;
     color: #c4a368;
-    text-decoration: none;
+text-decoration: none;
 }
 
-main {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+@@ -35,7 +35,7 @@
+display: flex;
+align-items: center;
+flex-direction: column;
+    background: #d7be91;
     background: #c4a368;
-    border-radius: 4vh;
-    margin: 4vh;
+border-radius: 4vh;
+margin: 4vh;
 }
- 
-.titulo-main {
-   padding-bottom: 2vh;
-}
-
-.cartoes {
-    width: 250px;
-    height: 200px;
-}
-
-.cartao-imagem {
-    width: 100%;
-    padding-bottom: 2px;
-}
-
-footer {
-        padding: 16px 23px;
-    background: #080a10;
-    color: #d7be91;  
-} 
