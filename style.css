@@ -59,10 +59,11 @@ main {
 .cartao-individual {
     position: relative;
     transition: transform 0.8s;
+    transform-style: preserve-3d;
 }
 
 .cartoes:hover .cartao-individual {
-    transform: rotateY(180deg)
+    transform: rotateY(180deg);
 }
 
 .cartao-frente, .cartao-verso {
