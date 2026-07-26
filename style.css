@@ -65,6 +65,11 @@ main {
     background-color: #26313a;
     border-radius: 12px;
     box-shadow: -12px -3px 24px rgb(134 151 165);
+    backface-visibility: hidden;
+}
+
+.cartao-verso {
+    transform: rotateY(180deg);
 }
 
 .cartao-imagem {
