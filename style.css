@@ -50,6 +50,11 @@ main {
    color: #dfa847;
 }
 
+.serie-cartoes {
+    display: flex;
+    gap: 10px;
+}
+
 .cartoes {
     width: 250px;
     height: 200px;
@@ -91,3 +96,4 @@ footer {
     background-color: #080a10;
     color: #dfa847;  
 } 
+
