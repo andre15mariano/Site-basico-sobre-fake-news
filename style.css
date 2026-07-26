@@ -63,6 +63,8 @@ main {
 .cartao-frente, .cartao-verso {
     position: absolute;
     background-color: #26313a;
+    border-radius: 12px;
+    box-shadow: -12px -3px 24px rgb(134 151 165);
 }
 
 .cartao-imagem {
