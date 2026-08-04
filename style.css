@@ -1,4 +1,4 @@
-* {
+* { 
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ body {
     flex-direction: column;
     row-gap: 2vh;
     min-height: 100vh;
-}
+} 
 
 .capa-projeto {
     padding: 16px 23px;
@@ -32,7 +32,7 @@ h1 {
     color: #dfa847;
     text-decoration: none;
 }
-
+ 
 main {
     flex: 1;
     display: flex;
@@ -62,7 +62,7 @@ main {
     .cartao-individual {
         min-height: 280px;
     }
-    
+     
     h1 {
         font-size: 0.9rem;
     }
@@ -118,3 +118,4 @@ footer {
     background-color: #080a10;
     color: #dfa847;
 }
+
